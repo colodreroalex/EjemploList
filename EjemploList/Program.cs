@@ -65,7 +65,7 @@
             listaPersonas.Sort();//Ordenado ASCENDENTEMENTE
             MostrarLista(listaPersonas);
 
-            //DARLE LA VUELTA A LA LISTA SEGUN COMO ESTE 
+            //DARLE LA VUELTA A LA LISTA SEGUN COMO ESTE - NO ORDENA
             Console.WriteLine();
             Console.WriteLine("Vuelta a la lista");
             listaPersonas.Reverse();
